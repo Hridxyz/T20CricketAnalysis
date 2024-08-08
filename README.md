@@ -27,7 +27,7 @@ The repository is structured as follows:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hridxyz/cricket-data-analytics.git
+    git clone https://github.com/hridxyz/T20CricketAnalysis.git
     cd cricket-data-analytics
     ```
 
